@@ -1,6 +1,6 @@
 ---
 title: "Group Fairness in Multi-period Mobile Facility Location Problems"
-authors: Haris Aziz, Hau Chan, Xingchen Sha, Toby Walsh and Xia Lirong
+pub_authors: Haris Aziz, Hau Chan, Xingchen Sha, Toby Walsh and Xia Lirong
 collection: publications
 category: conferences
 permalink: /publication/adt
