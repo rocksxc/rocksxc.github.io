@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 - title: "CV"
-    url: /files/CV_Resume.pdf
+<a href="{{/files/CV_Resume.pdf}}">my Google Scholar profile</a>
 
 
 Education
 ======
 * B.A., Computer Science, Columbia University, GPA: 4.06/4, 2025 (expected)
-* B.A., Computer Science, City University of Hong Kong, GPA: 4.01/4, 2025 (expected)
+* B.S., Computer Science, City University of Hong Kong, GPA: 4.01/4, 2025 (expected)
 
 Work experience
 ======
