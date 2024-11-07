@@ -1,10 +1,10 @@
 ---
-title: "Facility Location Games with Optional Preferences: A Revisit"
-pub_authors: 'Xingchen Sha, Shuyu BAO, Hau Chan, Vincent Chau, Ken C. K. Fong, Minming Li'
+title: "Group Fairness in Multi-period Mobile Facility Location Problems"
+pub_authors: 'Haris Aziz, Hau Chan, Xingchen Sha, Toby Walsh, Xia Lirong'
 collection: publications
 category: Under Review
-permalink: /publication/adt
-venue: 'Submitted to <i> The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</i>'
+permalink: /publication/AAMAS_ADT
+venue: 'Submitted to <i> The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</i>'
 date: 2024-9-01
 ---
 
