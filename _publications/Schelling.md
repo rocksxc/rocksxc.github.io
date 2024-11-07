@@ -1,6 +1,6 @@
 ---
-title: "Strategyproof Mechanisms for Schelling Games on Graphs"
-pub_authors: 'Xingchen Sha, Jiaqian Li, Hau Chan'
+title: "Strategyproof Mechanism Design in Schelling Games on Graphs"
+pub_authors: 'Hau Chan, Jiaqian Li, Xingchen Sha *'
 collection: publications
 category: working
 permalink: /publication/Schelling
