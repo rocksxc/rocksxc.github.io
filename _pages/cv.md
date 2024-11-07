@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-- title: "CV"
-<a href="{{/files/CV_Resume.pdf}}">my Google Scholar profile</a>
+[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Nov 2024)
 
 
 Education
