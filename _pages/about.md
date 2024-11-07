@@ -14,6 +14,8 @@ In 2021, I undertook a research internship at the [Video, Image, and Sound Analy
 In 2022, I served as a full-time research assistant at Hong Kong Chu Hai College, while taking classes on weekends. I collaborated on facility location games under the guidance of [Hau Chan](https://cse.unl.edu/~hchan/) and [Minming Li](https://www.cs.cityu.edu.hk/~minmli/).
 During my time at CityU, I also had the privilege of working with [Pinyan Lu](http://pinyanlu.com/) on mechanism design problems with private preferences.
 
+Both within and beyond research, I am passionate about inclusive teaching and volunteering. I worked as a student helper and judge for the Hong Kong Secondary School Coding Challenge ([HKSC](https://www.cs.cityu.edu.hk/~hksc/)) for two years, organizing programming contests for top high school students in Hong Kong. It was my first job, and I'm pleasantly surprised to see they are still using the web template I created in my freshman year.
+
 In 2023, I transitioned to Columbia University and began working closely with [Haris Aziz](https://sites.google.com/site/harisaziz/), [Toby Walsh](https://cgi.cse.unsw.edu.au/~tw/), and [Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/), focusing on fairness and efficiency in decision-making processes. I am also a member of the project [Fair Sequential Collective Decision Making](https://sites.google.com/view/fair-decisions).
 
 In the summer of 2024, I visited the University of Nebraska–Lincoln, hosted by Hau Chan, to work on Schelling Games.
