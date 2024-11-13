@@ -14,7 +14,7 @@ In 2021, I undertook a research internship at the [Video, Image, and Sound Analy
 In 2022, I served as a full-time research assistant at Hong Kong Chu Hai College, while taking classes on weekends. I collaborated on facility location games under the guidance of [Hau Chan](https://cse.unl.edu/~hchan/) and [Minming Li](https://www.cs.cityu.edu.hk/~minmli/).
 During my time at CityU, I also had the privilege of working with [Pinyan Lu](http://pinyanlu.com/) on mechanism design problems with private preferences.
 
-Both within and beyond research, I am passionate about inclusive teaching and volunteering. I initiated and served as a committee member for the Hong Kong Secondary School Coding Challenge ([HKSC](https://www.cs.cityu.edu.hk/~hksc/)) for two years, organizing annual programming contests for talented high school students in Hong Kong. 
+Both within and beyond research, I am passionate about inclusive teaching and volunteering. I served as the student helper and provided IT services for the Hong Kong Secondary School Coding Challenge ([HKSC](https://www.cs.cityu.edu.hk/~hksc/)) for two years, organizing annual programming contests for talented high school students in Hong Kong. 
 
 I was also fortunate to receive the HKSAR Government Scholarship, the CityU Scholarship, and the College of Engineering Dean’s Scholarship during my undergraduate study in Hong Kong.
 
