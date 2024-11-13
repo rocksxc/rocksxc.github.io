@@ -18,6 +18,16 @@ Education
 
 Work experience
 ======
+* September 2024 – October 2024: Visiting Student
+  * University of Southern California
+  * Research on Proportional Fairness in Hierarchical Clustering
+  * Host: Evi Micha
+
+* June 2024 – July 2024: Visiting Student
+  * University of Nebraska–Lincoln
+  * Research on Schelling Games on Graphs
+  * Host: Hau Chan
+
 * June 2022 – April 2023: Research Assistant
   * Hong Kong Chu Hai College
   * Research on Facility Location Games
