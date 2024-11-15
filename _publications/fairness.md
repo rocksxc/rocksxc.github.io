@@ -1,5 +1,5 @@
 ---
-title: "Proportional Fainress in Hierarchical Clustering"
+title: "Proportional Fairness in Hierarchical Clustering"
 pub_authors: 'Xingchen Sha, Evi Micha'
 collection: publications
 category: working
