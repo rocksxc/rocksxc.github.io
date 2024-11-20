@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.A., Computer Science, Columbia University, GPA: 4.06/4, 2025 (expected)
+* B.A., Computer Science, Columbia University, GPA: 4.058/4, 2025 (expected)
 * B.S., Computer Science, City University of Hong Kong, GPA: 4.01/4, 2025 (expected)
 
 Work experience
