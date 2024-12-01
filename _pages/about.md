@@ -26,7 +26,7 @@ In the fall of 2024, I visited the University of Southern California, hosted by 
 
 Currently, I am collaborating with [Chengzhi Mao](https://www.cs.columbia.edu/~mcz/) and [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia on jailbreaking and hallucination issues in large language models.
 
-I am also part of the Decentralized Finance and Game Theory Seminar with [Jason Milionis](https://jasonmili.github.io/), where I study blockchain technologies, auction-based lending protocols, liquidations, and Sybil-resistant governance mechanisms.
+I am also part of the Decentralized Finance and Game Theory Seminar with [Jason Milionis](https://jasonmili.github.io/), where I study and teach blockchain technologies, auction-based lending protocols, liquidations, and Sybil-resistant governance mechanisms.
 
 My current research interests include, but are not limited to, algorithmic game theory, reinforcement learning, and AI for social good. I am proactive and open to exploring new topics, always eager to engage with emerging research areas.
 
