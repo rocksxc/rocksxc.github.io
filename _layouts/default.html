@@ -9,6 +9,18 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+      #clustrmaps-container {
+        width: 300px; /* Set the desired width */
+        height: 200px; /* Set the desired height */
+        overflow: hidden; /* Prevent content overflow */
+      }
+    
+      #clustrmaps-container iframe {
+        width: 100%; /* Make the map adapt to the container */
+        height: 100%;
+      }
+    </style>
   </head>
 
   <body>
@@ -22,7 +34,9 @@ layout: compress
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
+        <div id="clustrmaps-container">
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XGZWkj3rCy5fn8AxZU8PETFB6CDUhcRTQqsl0UX0b1w&cl=ffffff&w=a"></script>
+        </div>
       </footer>
     </div>
 
