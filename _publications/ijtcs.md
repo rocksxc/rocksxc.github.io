@@ -6,6 +6,7 @@ category: conferences
 permalink: /publication/ijtcs
 venue: 'Published in <i> International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2024)</i>'
 date: 2024-7-01
+paperurl: '../files/ijtcs.pdf'
 ---
 
 
