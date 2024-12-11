@@ -1,6 +1,6 @@
 ---
 title: "Facility Location Games with Optional Preferences: A Revisit"
-pub_authors: 'Xingchen Sha, Shuyu BAO, Hau Chan, Vincent Chau, Ken C. K. Fong, Minming Li'
+pub_authors: 'Xingchen Sha, Shuyu Bao, Hau Chan, Vincent Chau, Ken C. K. Fong, Minming Li'
 collection: publications
 category: conferences
 permalink: /publication/AAAI
