@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Nov 2024)
+[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Dec 2024)
 
 
 Education
@@ -22,6 +22,13 @@ Education
 
 Work experience
 ======
+* September 2024 – Present: Research Assistant 
+  * Columbia University
+  * Research on jailbreakings and hallucinations in LLMs
+  * Research on fine-tuning frameworks for LLMs incorporating game theory principles
+  * Research on RL architectures to counteract biases in AI-driven decisions
+  * Supervisor: Chengzhi Mao, Junfeng Yang
+
 * September 2024 – October 2024: Visiting Student
   * University of Southern California
   * Research on Proportional Fairness in Hierarchical Clustering
@@ -31,6 +38,14 @@ Work experience
   * University of Nebraska–Lincoln
   * Research on Schelling Games on Graphs
   * Host: Hau Chan
+
+* October 2023 – Present: Research Assistant 
+  * Columbia University
+  * Collaborator in the NSF CSIRO-funded project Fair Sequential Collective Decision Making
+  * Research on group-fairness in multi-period facility location problems
+  * Research on temporal fairness in participatory budgeting
+  * Research on multi-winner voting with predictions
+  * Supervisor: Haris Aziz, Hau Chan, Toby Walsh, Lirong Xia
 
 * June 2022 – April 2023: Research Assistant
   * Hong Kong Chu Hai College
