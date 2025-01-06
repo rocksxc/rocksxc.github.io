@@ -4,7 +4,7 @@ pub_authors: 'Xingchen Sha, Shuyu Bao, Hau Chan, Vincent Chau, Ken C. K. Fong, M
 collection: publications
 category: conferences
 permalink: /publication/AAAI
-venue: 'The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</i>'
+venue: '<i>The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</i>'
 date: 2024-9-01
 ---
 
