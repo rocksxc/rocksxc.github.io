@@ -5,6 +5,7 @@ pub_authors: 'Xingchen Sha, Hau Chan, Vincent Chau, Ken C. K. Fong, Minming Li, 
 collection: publications
 category: review
 permalink: /publication/AAMAS
-venue: 'Submitted to <i> The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</i>'
+venue: 'Submitted to <i> The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)</i>'
+
 date: 2024-9-01
 ---
