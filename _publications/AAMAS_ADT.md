@@ -5,6 +5,6 @@ collection: publications
 category: review
 permalink: /publication/AAMAS_ADT
 venue: 'Submitted to <i> The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</i>'
-date: 2024-9-01
+date: 2025-1-01
 ---
 

@@ -5,7 +5,7 @@ collection: publications
 category: abstracts
 permalink: /publication/adt
 venue: 'Published in <i> The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</i> and <i> The 8th International Conference on Algorithmic Decision Theory (ADT 2024)</i>'
-date: 2024-9-01
+date: 2025-1-01
 ---
 
 

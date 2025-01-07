@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Dec 2024)
+[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Jan 2025)
 
 
 Education
