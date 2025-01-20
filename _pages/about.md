@@ -22,7 +22,7 @@ In 2023, I transitioned to Columbia University and began working closely with [H
 
 In the summer of 2024, I visited the University of Nebraska–Lincoln, hosted by Hau Chan.
 
-In the fall of 2024, I visited the University of Southern California, hosted by [Evi Micha](https://evi-micha.github.io/).
+In the fall of 2024, I visited the University of Southern California for one week, hosted by [Evi Micha](https://evi-micha.github.io/).
 
 Currently, I am collaborating with [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia on jailbreaking and hallucination issues in large language models.
 
