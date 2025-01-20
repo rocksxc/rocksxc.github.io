@@ -20,9 +20,9 @@ I was also fortunate to receive the HKSAR Government Scholarship, the CityU Scho
 
 In 2023, I transitioned to Columbia University and began working closely with [Haris Aziz](https://sites.google.com/site/harisaziz/), [Toby Walsh](https://cgi.cse.unsw.edu.au/~tw/), and [Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/), focusing on fairness and efficiency in decision-making processes. I am also a member of the project [Fair Sequential Collective Decision Making](https://sites.google.com/view/fair-decisions).
 
-In the summer of 2024, I visited the University of Nebraska–Lincoln, hosted by Hau Chan, to work on Schelling Games.
+In the summer of 2024, I visited the University of Nebraska–Lincoln, hosted by Hau Chan.
 
-In the fall of 2024, I visited the University of Southern California, hosted by [Evi Micha](https://evi-micha.github.io/), where I researched proportional fairness in hierarchical clustering.
+In the fall of 2024, I visited the University of Southern California, hosted by [Evi Micha](https://evi-micha.github.io/).
 
 Currently, I am collaborating with [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia on jailbreaking and hallucination issues in large language models.
 
