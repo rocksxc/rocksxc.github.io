@@ -12,7 +12,7 @@ Hello! My name is Xingchen SHA and I also go by Patrick. I am a senior at Columb
 
 In 2021, I undertook a research internship at the [Video, Image, and Sound Analysis Lab (VISAL)](http://visal.cs.cityu.edu.hk/), where I worked on designing new deep learning frameworks and benchmarks for image captioning, guided by [Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/).
 In 2022, I served as a full-time research assistant at Hong Kong Chu Hai College, while taking classes on weekends. I collaborated on facility location games under the guidance of [Hau Chan](https://cse.unl.edu/~hchan/) and [Minming Li](https://www.cs.cityu.edu.hk/~minmli/).
-During my time at CityU, I also had the privilege of working with [Pinyan Lu](http://pinyanlu.com/) on mechanism design problems with private preferences.
+During my time at CityU, I also had the privilege of working with [Pinyan Lu](http://pinyanlu.com/) and [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html) on mechanism design problems with private preferences.
 
 Both within and beyond research, I am passionate about inclusive teaching and volunteering. I served as the student helper and provided IT services for the Hong Kong Secondary School Coding Challenge ([HKSC](https://www.cs.cityu.edu.hk/~hksc/)) for two years, organizing annual programming contests for talented high school students in Hong Kong. 
 
