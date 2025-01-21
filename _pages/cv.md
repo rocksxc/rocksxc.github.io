@@ -29,7 +29,7 @@ Work experience
   * Research on RL architectures to counteract biases in AI-driven decisions
   * Supervisor: Chengzhi Mao, Junfeng Yang
 
-* October 2024 (one week): Visiting Student
+* October 2024 (One Week): Visiting Student
   * University of Southern California
   * Host: Evi Micha
 
