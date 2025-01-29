@@ -24,7 +24,7 @@ In the summer of 2024, I visited the University of Nebraska–Lincoln, hosted by
 
 In the fall of 2024, I visited the University of Southern California for one week, hosted by [Evi Micha](https://evi-micha.github.io/).
 
-Currently, I am collaborating with [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia on jailbreaking and hallucination issues in large language models.
+<!--I also worked with [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia on jailbreaking and hallucination issues in large language models.-->
 
 I am also part of the Decentralized Finance and Game Theory Seminar with [Jason Milionis](https://jasonmili.github.io/), where I study and teach blockchain technologies, auction-based lending protocols, liquidations, and Sybil-resistant governance mechanisms.
 
