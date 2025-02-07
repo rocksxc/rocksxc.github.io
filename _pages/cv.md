@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.A., Computer Science, Columbia University, 
-  * GPA: 4.058/4, Upsilon Pi Epsilon,
+  * GPA: 4.06/4, Upsilon Pi Epsilon,
   * Graduating May 2025 (expected)
 * B.S., Computer Science, City University of Hong Kong, 
   * GPA: 4.01/4, HKSAR Government Scholarship,
@@ -22,6 +22,7 @@ Education
 
 Work experience
 ======
+<!--
 * September 2024 – Present: Research Assistant 
   * Columbia University
   * Research on jailbreakings and hallucinations in LLMs
@@ -37,20 +38,19 @@ Work experience
   * University of Nebraska–Lincoln
   * Research on Schelling Games on Graphs
   * Host: Hau Chan
+-->
 
 * October 2023 – Present: Research Assistant 
   * Columbia University
   * Collaborator in the NSF CSIRO-funded project Fair Sequential Collective Decision Making
   * Research on group-fairness in multi-period facility location problems
-  * Research on temporal fairness in participatory budgeting
-  * Research on multi-winner voting with predictions
   * Supervisor: Haris Aziz, Hau Chan, Toby Walsh, Lirong Xia
 
 * June 2022 – April 2023: Research Assistant
   * Hong Kong Chu Hai College
   * Research on Facility Location Games
   * Supervisor: Minming Li, Hau Chan, Ken Fong
-
+<!--
 * September 2021 – May 2022: Chief Technology Officer 
   * Biolot
   * Cofounder of Biolot in Hong Kong Tech 300 Startup Program
@@ -59,7 +59,7 @@ Work experience
   * City University of Hong Kong
   * Research on Image Captioning
   * Supervisor: Antoni B. Chan
-
+-->
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
