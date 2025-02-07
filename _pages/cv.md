@@ -48,8 +48,10 @@ Work experience
 
 * June 2022 – April 2023: Research Assistant
   * Hong Kong Chu Hai College
-  * Research on Facility Location Games
-  * Supervisor: Minming Li, Hau Chan, Ken Fong
+  * Research on facility location games with capacity constraints
+  * Research on multi-stage facilty location games in dynamic settings
+  * Research on mechanism design with optional preferences
+  * Supervisor: Hau Chan, Vincent Chau, Ken Fong, Minming Li, Pinyan Lu, Jialin Zhang
   
 <!--
 * September 2021 – May 2022: Chief Technology Officer 
