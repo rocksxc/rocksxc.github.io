@@ -50,6 +50,7 @@ Work experience
   * Hong Kong Chu Hai College
   * Research on Facility Location Games
   * Supervisor: Minming Li, Hau Chan, Ken Fong
+  
 <!--
 * September 2021 – May 2022: Chief Technology Officer 
   * Biolot
@@ -60,6 +61,7 @@ Work experience
   * Research on Image Captioning
   * Supervisor: Antoni B. Chan
 -->
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
