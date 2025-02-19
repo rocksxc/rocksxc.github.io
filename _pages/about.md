@@ -31,7 +31,7 @@ In the fall of 2024, I visited the University of Southern California for one wee
 
 <!--I am also part of the Decentralized Finance and Game Theory Seminar hosted by [Jason Milionis](https://jasonmili.github.io/), where I studied blockchain technologies, auction-based lending protocols, liquidations, and Sybil-resistant governance mechanisms. -->
 
-My current research interests include, but are not limited to, algorithmic game theory, fairness, reinforcement learning, and AI for social good. I am proactive and open to exploring new topics, always eager to engage with emerging research areas.
+My current research interests include, but are not limited to, algorithmic game theory, large language models, and automatic mechanims design. I am proactive and open to exploring new topics, always eager to engage with emerging research areas.
 
 <!--During my undergraduate journey, I have had the privilege of working under the guidance of several esteemed professors: [Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/), , , , , ,  [list in chronological order].
 [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/page.htm), [Ken Fong](https://scholars.ln.edu.hk/en/persons/chi-kit-ken-fong), [Wai Lun Lo](https://cs.chuhai.edu.hk/dr-lo/?lang=en), [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html),-->
