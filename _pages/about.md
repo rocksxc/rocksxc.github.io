@@ -21,7 +21,7 @@ Both within and beyond research, I am passionate about inclusive teaching and vo
 
 I was also fortunate to receive the HKSAR Government Scholarship, the CityU Scholarship, and the College of Engineering Dean’s Scholarship during my undergraduate study in Hong Kong.
 
-In 2023, I transitioned to Columbia University and began working closely with [Haris Aziz](https://sites.google.com/site/harisaziz/), [Toby Walsh](https://cgi.cse.unsw.edu.au/~tw/), and [Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/), focusing on fairness and efficiency in decision-making processes. I am also a member of the project [Fair Sequential Collective Decision Making](https://sites.google.com/view/fair-decisions).
+In 2023, I transitioned to Columbia University and began working closely with [Haris Aziz](https://sites.google.com/site/harisaziz/), [Toby Walsh](https://cgi.cse.unsw.edu.au/~tw/), and [Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/), focusing on fairness and efficiency in decision-making processes. I am also a member of the project [Fair Sequential Collective Decision Making](https://sites.google.com/view/fair-decisions) funded by the United States National Science Foundation (NSF) and the Australian Commonwealth Scientific and Industrial Research Organisation (CSIRO).
 
 <!--In the summer of 2024, I visited the University of Nebraska–Lincoln, hosted by Hau Chan.
 
