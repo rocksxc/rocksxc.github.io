@@ -15,10 +15,10 @@ Education
 ======
 * B.A., Computer Science, Columbia University, 
   * GPA: 4.06/4, Upsilon Pi Epsilon,
-  * Graduating May 2025 (expected)
+  * Graduating May 2025 
 * B.S., Computer Science, City University of Hong Kong, 
   * GPA: 4.01/4, HKSAR Government Scholarship,
-  * Graduating May 2025 (expected)
+  * Graduating May 2025 
 
 Work experience
 ======

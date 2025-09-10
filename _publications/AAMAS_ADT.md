@@ -4,7 +4,7 @@ pub_authors: 'Haris Aziz, Hau Chan, Xingchen Sha, Toby Walsh, Lirong Xia *'
 collection: publications
 category: review
 permalink: /publication/AAMAS_ADT
-venue: 'Submitted to <i> The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</i>'
+venue: 'Submitted to <i> The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>'
 date: 2025-1-01
 ---
 
