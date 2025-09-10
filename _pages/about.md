@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hello! My name is Xingchen SHA and I also go by Patrick. I am a senior at Columbia University, enrolled in the joint bachelor's degree program between Columbia University and City University of Hong Kong. I spent the first two years of my undergraduate studies in Hong Kong, followed by a nine-month research assistant internship in Hong Kong. Afterward, I continued my studies at Columbia University in New York. I am expected to graduate in May 2025 with two bachelor’s degrees, one from each institution. 
+Hello! My name is Xingchen SHA and I also go by Patrick. I am a first-year Ph.D. student in the [Computer Science Department](https://www.mccormick.northwestern.edu/computer-science/) at Northwestern University. I completed my undergraduate studies jointly at Columbia University and the City University of Hong Kong, earning a bachelor’s degree from each institution.
 
 During my time at CityU, I had the privilege of working with 
 [Hau Chan](https://cse.unl.edu/~hchan/), [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/page.htm), [Ken C. K. Fong](https://scholars.ln.edu.hk/en/persons/chi-kit-ken-fong), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), [Pinyan Lu](http://pinyanlu.com/) and [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html).
@@ -36,4 +36,4 @@ My current research interests include, but are not limited to, algorithmic game 
 <!--During my undergraduate journey, I have had the privilege of working under the guidance of several esteemed professors: [Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/), , , , , ,  [list in chronological order].
 [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/page.htm), [Ken Fong](https://scholars.ln.edu.hk/en/persons/chi-kit-ken-fong), [Wai Lun Lo](https://cs.chuhai.edu.hk/dr-lo/?lang=en), [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html),-->
 ------
-Contact: Xingchen.sha@columbia.edu
+Contact: Xingchen.sha@u.northwestern.edu
