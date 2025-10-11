@@ -5,7 +5,7 @@ collection: publications
 category: journals
 permalink: /publication/GEB
 venue: '<i> Games and Economic Behavior</i>'
-date: 2024-9-01
+date: 2025-9-01
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4979593'
 ---
 
