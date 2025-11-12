@@ -8,17 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Jan 2025)
+[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Nov 2025)
 
 
 Education
 ======
 * B.A., Computer Science, Columbia University, 
-  * GPA: 4.06/4, Upsilon Pi Epsilon,
-  * Graduating May 2025 
+  * GPA: 4.03/4, Upsilon Pi Epsilon,
 * B.S., Computer Science, City University of Hong Kong, 
   * GPA: 4.01/4, HKSAR Government Scholarship,
-  * Graduating May 2025 
 
 Work experience
 ======
