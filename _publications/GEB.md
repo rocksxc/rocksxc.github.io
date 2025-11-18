@@ -4,7 +4,7 @@ pub_authors: 'Minming Li, Pinyan Lu, Xingchen Sha, Yuhao Yao, Jialin Zhang *'
 collection: publications
 category: journals
 permalink: /publication/GEB
-venue: '<i> Games and Economic Behavior</i>'
+venue: '<i> Games and Economic Behavior (forthcoming)</i>'
 date: 2025-9-01
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4979593'
 ---
