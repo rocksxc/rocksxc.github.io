@@ -5,6 +5,6 @@ collection: publications
 category: review
 permalink: /publication/AAMAS_ADT
 venue: 'Submitted to <i> The 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)</i>'
-date: 2026-1-01
+date: 2026-1-02
 ---
 
