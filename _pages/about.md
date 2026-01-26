@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hello! My name is Xingchen SHA and I also go by Patrick. I am a first-year Ph.D. student in the [Computer Science Department](https://www.mccormick.northwestern.edu/computer-science/) at Northwestern University. I completed my undergraduate studies jointly at Columbia University and the City University of Hong Kong, earning a bachelor’s degree from each institution.
+Hello! My name is Xingchen SHA and I also go by Patrick. I am a first-year Ph.D. student in the [Computer Science Department](https://www.mccormick.northwestern.edu/computer-science/) at Northwestern University. I am fortunate to be advised by [Edith Elkind](https://sagemath.openbsd.amsterdam/edith/). I completed my undergraduate studies jointly at Columbia University and the City University of Hong Kong, earning a bachelor’s degree from each institution.
 
 During my time at CityU, I had the privilege of working with 
 [Hau Chan](https://cse.unl.edu/~hchan/), [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/page.htm), [Ken C. K. Fong](https://scholars.ln.edu.hk/en/persons/chi-kit-ken-fong), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), [Pinyan Lu](http://pinyanlu.com/) and [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html).
@@ -19,7 +19,7 @@ During my time at CityU, I also had the privilege of working with [Pinyan Lu](ht
 
 Both within and beyond research, I am passionate about inclusive teaching and volunteering. I served as the student helper and provided IT services for the Hong Kong Secondary School Coding Challenge ([HKSC](https://www.cs.cityu.edu.hk/~hksc/)) for two years, organizing annual programming contests for talented high school students in Hong Kong. 
 
-I was also fortunate to receive the HKSAR Government Scholarship, the CityU Scholarship, and the College of Engineering Dean’s Scholarship during my undergraduate study in Hong Kong.
+I was also fortunate to receive the HKSAR Government Scholarship, the CityU Scholarship, the College of Engineering Dean’s Scholarship, and the College of Computing College Medal during my undergraduate study in Hong Kong.
 
 In 2023, I transitioned to Columbia University and began working closely with [Haris Aziz](https://sites.google.com/site/harisaziz/), [Toby Walsh](https://cgi.cse.unsw.edu.au/~tw/), and [Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/), focusing on fairness and efficiency in decision-making processes. I am also a member of the project [Fair Sequential Collective Decision Making](https://sites.google.com/view/fair-decisions) funded by the United States National Science Foundation (NSF) and the Australian Commonwealth Scientific and Industrial Research Organisation (CSIRO).
 
