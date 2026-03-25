@@ -45,7 +45,7 @@ Work experience
   * Supervisor: Haris Aziz, Hau Chan, Toby Walsh, Lirong Xia
 
 * June 2022 – April 2023: Research Assistant
-  * Hong Kong Chu Hai College
+  * City University of Hong Kong
   * Research on facility location games with capacity constraints
   * Research on multi-stage facilty location games in dynamic settings
   * Research on mechanism design with optional preferences
