@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Nov 2025)
+[Downlonad CV](/files/CV_Resume.pdf) (Last Updated: Aug 2026)
 
-
+<!--
 Education
 ======
 * B.A., Computer Science, Columbia University, 
@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-<!--
+
 * September 2024 – Present: Research Assistant 
   * Columbia University
   * Research on jailbreakings and hallucinations in LLMs
@@ -36,7 +36,7 @@ Work experience
   * University of Nebraska–Lincoln
   * Research on Schelling Games on Graphs
   * Host: Hau Chan
--->
+
 
 * October 2023 – Present: Research Assistant 
   * Columbia University
@@ -51,7 +51,7 @@ Work experience
   * Research on mechanism design with optional preferences
   * Supervisor: Hau Chan, Vincent Chau, Ken Fong, Minming Li, Pinyan Lu, Jialin Zhang
   
-<!--
+
 * September 2021 – May 2022: Chief Technology Officer 
   * Biolot
   * Cofounder of Biolot in Hong Kong Tech 300 Startup Program
@@ -60,7 +60,7 @@ Work experience
   * City University of Hong Kong
   * Research on Image Captioning
   * Supervisor: Antoni B. Chan
--->
+
 
 Publications
 ======
@@ -73,5 +73,5 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+  -->
 
